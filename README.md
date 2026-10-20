@@ -1,20 +1,20 @@
-# Simple Calculator
+# Calculadora Simples
 
-This project contains a simple calculator built with HTML, CSS, and JavaScript.
+Este projeto contém uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 
-## Files
+## Arquivos
 
-- `index.html` — main page structure
-- `styles.css` — calculator styling
-- `script.js` — calculator logic
+- `index.html` — estrutura principal da página
+- `styles.css` — estilo da calculadora
+- `script.js` — lógica da calculadora
 
-## How to run
+## Como executar
 
-Open `index.html` in your browser.
+Abra o arquivo `index.html` em qualquer navegador.
 
-## Features
+## Funcionalidades
 
-- Addition, subtraction, multiplication, and division
-- Decimal support
-- Clear and delete buttons
-- Responsive, modern UI
+- Soma, subtração, multiplicação e divisão
+- Suporte a números decimais
+- Botões de limpar e apagar
+- Interface moderna e responsiva
